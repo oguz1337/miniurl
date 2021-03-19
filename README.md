@@ -1,2 +1,2 @@
 # MiniURL
-Url shorter
+basittir bunuda kullanamıyorsan pcni çöpe at
